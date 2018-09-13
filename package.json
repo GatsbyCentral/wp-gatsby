@@ -5,9 +5,9 @@
   "repository": "git@github.com:GatsbyCentral/wp-gatsby.git",
   "license": "MIT",
   "scripts": {
-    "postinstall": "cd gatsby && yarn",
-    "clean": "cd gatsby && yarn clean",
-    "build": "cd gatsby && yarn build",
-    "start": "cd gatsby && yarn start"
+    "postinstall": "cd gatsby-starter-wordpress && yarn",
+    "clean": "cd gatsby-starter-wordpress && yarn clean",
+    "build": "cd gatsby-starter-wordpress && yarn build",
+    "start": "cd gatsby-starter-wordpress && yarn start"
   }
 }
