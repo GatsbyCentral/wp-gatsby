@@ -1,0 +1,13 @@
+{
+  "name": "wp-gatsby",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:GatsbyCentral/wp-gatsby.git",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "cd gatsby && yarn",
+    "clean": "cd gatsby && yarn clean",
+    "build": "cd gatsby && yarn build",
+    "start": "cd gatsby && yarn start"
+  }
+}
